@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/maxdrowork.lwc-l6awdh1v",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve ydn51LSQ4ul0FyG4THwb --open"
+  }
+}
